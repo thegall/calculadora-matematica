@@ -1,0 +1,9 @@
+# Calculadora Matemática - Dependências
+# Este projeto usa apenas bibliotecas padrão do Python
+
+# Python 3.6+ é necessário
+# Módulos utilizados (incluídos na biblioteca padrão):
+# - math (operações matemáticas)
+# - sys (sistema)
+
+# Não são necessárias dependências externas
